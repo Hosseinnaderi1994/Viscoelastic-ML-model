@@ -1,6 +1,6 @@
 # PINN viscoelastic model
 ## Description
-These files contains codes of the ML viscoelastic model for prediction of the behavior of various types of Polymers in unaxial test.
+These files contains codes of the ML viscoelastic model for prediction of the behavior of various types of Polymers in unaxial tensile test.
 
 ## Usage
 Please save the files. Open the ML model in the Matlab software. All data and codes for a particular type of polymers are avaiable in a folder. One can run the Main.m file for solving a constrained ML model 
