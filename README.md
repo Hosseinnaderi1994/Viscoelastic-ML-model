@@ -9,5 +9,4 @@ and getting the related results in our published article.
 ## Citation
 If you use this code in your research or publications, please cite the following article, which was published in the Journal of Physical Review E:
 
-Naderi, H. and Dargazany, R., 2025. A Physics-Informed Neural Network Engines to predict viscoelastic
-behavior of Elastomers/Hydrogels. Physical Review E, EC12820.
+Naderi, Hossein, and Roozbeh Dargazany. "Physics-Informed Neural Network Engines to Predict Viscoelastic Behavior of Elastomers/Hydrogels." Journal of Applied Mechanics 93.3 (2026): 031005.
